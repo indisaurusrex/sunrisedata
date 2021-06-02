@@ -45,4 +45,4 @@ const customerSampleData = {
     countryCode: "DE",
   };
 
-module.exports.createCustomer(customerSampleData);const { apiRoot, projectKey } = require("../lib/client.js");
+module.exports.createCustomer(customerSampleData);
